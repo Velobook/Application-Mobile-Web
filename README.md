@@ -26,7 +26,7 @@ Elle propose aux Utilisateurs (Coureurs) déjà enregistre sur Velobook d'accèd
 
 6- Accès aux tests et paramètres individuels de base (poids, Fc Max, Fc Repos, PMA, Longueur de manivelle)
 
-7- Accès au planning des séances planifiées par enraineur
+7- Accès au planning des séances planifiées par entraineur
 
 Cette application n'a pas vocation à remplacer l'application Web actuelle Velobook.Net, permettant des analyses, staistique et graphiques plus élaborés
 
