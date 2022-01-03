@@ -28,5 +28,6 @@ Elle propose aux Utilisateurs (Coureurs) déjà enregistre sur Velobook d'accèd
 
 7- Accès au planning des séances planifiées par enraineur
 
+Cette application n'a pas vocation à remplacer l'application Web actuelle Velobook.Net, permettant des analyses, staistique et graphiques plus élaborés
 
 
