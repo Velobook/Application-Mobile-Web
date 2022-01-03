@@ -11,7 +11,7 @@ L'application mobile Web est développée avec de nouvelles technologies propos�
 
 
 
-Elle propose aux Utilisateurs (Coureurs) déjà enregistre sur Velobook d'accèder à leur données
+Elle propose aux Utilisateurs (Coureurs) déjà enregistrés sur Velobook d'accèder à leur données
 
 
 1- Phase d'authentification vers le Serveur DNN SQL de l'application Velobook
